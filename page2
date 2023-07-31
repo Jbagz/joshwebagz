@@ -1,0 +1,7 @@
+<html>
+<body bgcolor="black">
+<marquee><h1><font color="white">PHOTOS</font></h1></marquee>
+<hr>
+<center><img src="jpeg1.jpg" width=600 height=400></center>
+</body>
+</html>
